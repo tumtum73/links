@@ -10,6 +10,9 @@
 # Javascript
 [Lexical Scope in JavaScript – What Exactly Is Scope in JS?](https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/)
 
+# Machine Learning
+[Free 10-Hour Machine Learning Course](https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/)
+
 # Network
 [What is the OSI Model? Computer Networking for Beginners](https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/)
 
