@@ -9,6 +9,7 @@
 
 # Javascript
 [Lexical Scope in JavaScript – What Exactly Is Scope in JS?](https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/)
+[Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)
 
 # Linux
 [Linux for Ethical Hacking – Penetration Testing for Beginners](https://www.freecodecamp.org/news/linux-essentials-for-hackers/)
