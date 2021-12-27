@@ -10,3 +10,5 @@
 # Network
 [What is the OSI Model? Computer Networking for Beginners](https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/)
 
+# Programming
+[Why Learning to Code is Hard – And How to Make it Easier](https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/)
