@@ -26,3 +26,4 @@
 # Programming
 - [Why Learning to Code is Hard – And How to Make it Easier](https://www.freecodecamp.org/news/why-learning-to-code-is-hard-and-how-to-make-it-easier/)
 - [10 Must-Read Books for Software Engineers](https://betterprogramming.pub/10-must-read-books-for-software-engineers-edfac373821b)
+- [Effective Coding Habits You Should Start Developing Now](https://medium.com/codex/leffective-coding-habits-you-should-start-developing-now-41477d154126)
