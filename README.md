@@ -17,6 +17,9 @@
 # Machine Learning
 - [Free 10-Hour Machine Learning Course](https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/)
 
+# Markdown
+- [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/)
+
 # Network
 - [What is the OSI Model? Computer Networking for Beginners](https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/)
 
