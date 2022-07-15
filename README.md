@@ -1,4 +1,5 @@
 # Git
+- [Getting Started First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - [A Git cheatsheet that all coders need](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
 
 # Google Sheets
