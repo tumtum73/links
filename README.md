@@ -1,3 +1,6 @@
+# General
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
 # Git
 - [Getting Started First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - [A Git cheatsheet that all coders need](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
@@ -35,3 +38,5 @@
 - [8 Ways To Drastically Boost Your Developer Productivity](https://blog.devgenius.io/8-ways-to-drastically-boost-your-developer-productivity-195c60af3ac)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [public-apis](https://github.com/public-apis/public-apis)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+
