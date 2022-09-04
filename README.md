@@ -33,4 +33,4 @@
 - [Effective Coding Habits You Should Start Developing Now](https://medium.com/codex/leffective-coding-habits-you-should-start-developing-now-41477d154126)
 - [HTTP Request Methods – Get vs Put vs Post Explained with Code Examples](https://www.freecodecamp.org/news/http-request-methods-explained/)
 - [8 Ways To Drastically Boost Your Developer Productivity](https://blog.devgenius.io/8-ways-to-drastically-boost-your-developer-productivity-195c60af3ac)
-[free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
