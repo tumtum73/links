@@ -34,3 +34,4 @@
 - [HTTP Request Methods – Get vs Put vs Post Explained with Code Examples](https://www.freecodecamp.org/news/http-request-methods-explained/)
 - [8 Ways To Drastically Boost Your Developer Productivity](https://blog.devgenius.io/8-ways-to-drastically-boost-your-developer-productivity-195c60af3ac)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [public-apis](https://github.com/public-apis/public-apis)
