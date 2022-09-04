@@ -8,6 +8,9 @@
 # Google Sheets
 - [Learn Google Sheets for Beginners – Full Course](https://www.freecodecamp.org/news/learn-google-sheets/)
 
+# HTML, Css, and Javascript
+- [Create a Portfolio Website Using HTML, CSS, & JavaScript](https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/)
+
 # Interesting
 - [Six Designs That White People Never Notice Are Racist](https://starkraving.medium.com/six-designs-that-white-people-never-notice-are-racist-d20f8a7136bf)
 
