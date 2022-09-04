@@ -43,3 +43,5 @@
 - [public-apis](https://github.com/public-apis/public-apis)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 
+# Vim
+- [Learn Vim – Beginner's Tutorial](https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/)
