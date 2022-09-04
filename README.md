@@ -15,8 +15,8 @@
 - [Lexical Scope in JavaScript – What Exactly Is Scope in JS?](https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/)
 - [Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)
 
-# kUBERNETES
-- [Cloud-Native Computing Foundation (CNCF) Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course](https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course)
+# Kubernetes
+- [Cloud-Native Computing Foundation (CNCF) Kubernetes and Cloud-Native Associate Study Course](https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course)
 
 # Linux
 - [Linux for Ethical Hacking – Penetration Testing for Beginners](https://www.freecodecamp.org/news/linux-essentials-for-hackers/)
