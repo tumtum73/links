@@ -5,6 +5,9 @@
 - [Getting Started First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - [A Git cheatsheet that all coders need](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
 
+# Go 
+- [Learn Go Programming by Building 11 Projects](https://www.freecodecamp.org/news/learn-go-by-building-11-projects/)
+
 # Google Sheets
 - [Learn Google Sheets for Beginners – Full Course](https://www.freecodecamp.org/news/learn-google-sheets/)
 
