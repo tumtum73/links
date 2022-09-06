@@ -5,6 +5,9 @@
 - [Getting Started First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - [A Git cheatsheet that all coders need](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
 
+# Github
+- [20 Amazing GitHub Repositories Every Developer Should Follow](https://medium.com/towards-data-science/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351)
+
 # Go 
 - [Learn Go Programming by Building 11 Projects](https://www.freecodecamp.org/news/learn-go-by-building-11-projects/)
 
@@ -20,6 +23,9 @@
 # Javascript
 - [Lexical Scope in JavaScript – What Exactly Is Scope in JS?](https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/)
 - [Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)
+
+# KQL
+- [KQL-for-Everything](https://github.com/rod-trent/KQL-for-Everything)
 
 # Kubernetes
 - [Cloud-Native Computing Foundation (CNCF) Kubernetes and Cloud-Native Associate Study Course](https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course)
