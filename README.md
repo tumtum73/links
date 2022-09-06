@@ -11,6 +11,9 @@
 # Go 
 - [Learn Go Programming by Building 11 Projects](https://www.freecodecamp.org/news/learn-go-by-building-11-projects/)
 
+# Google Search
+- [How to Use Google – Search Tips for Better Results](https://www.freecodecamp.org/news/use-google-search-tips/)
+
 # Google Sheets
 - [Learn Google Sheets for Beginners – Full Course](https://www.freecodecamp.org/news/learn-google-sheets/)
 
