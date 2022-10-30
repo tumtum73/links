@@ -1,3 +1,6 @@
+#C++
+- [How to Learn the C++ Programming Language](https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/)
+
 # General
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Windows vs MacOS vs Linux – Operating System Handbook](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
