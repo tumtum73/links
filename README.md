@@ -65,5 +65,8 @@
 # Pyhton
 - [Free Python Crash Course](https://www.freecodecamp.org/news/free-python-crash-course/)
 
+# Terraform
+- [Learn Terraform and AWS by Building a Dev Environment](https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/)
+
 # Vim
 - [Learn Vim – Beginner's Tutorial](https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/)
