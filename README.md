@@ -39,6 +39,8 @@
 
 # Linux
 - [Linux for Ethical Hacking – Penetration Testing for Beginners](https://www.freecodecamp.org/news/linux-essentials-for-hackers/)
+- [Linux Permissions – How to Find Permissions of a File](https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/)
+- [Linux chmod and chown – How to Change File Permissions and Ownership in Linux](https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/)
 
 # Machine Learning
 - [Free 10-Hour Machine Learning Course](https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/)
@@ -67,6 +69,9 @@
 
 # Pyhton
 - [Free Python Crash Course](https://www.freecodecamp.org/news/free-python-crash-course/)
+- [Object Oriented Programming with Python – Code a Minesweeper Game](https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/)
+- [Train an AI to Play a Snake Game Using Python](https://www.freecodecamp.org/news/train-an-ai-to-play-a-snake-game-using-python/)
+- [The Python Code Example Handbook – Simple Python Program Examples for Beginners](https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/)
 
 # Terraform
 - [Learn Terraform and AWS by Building a Dev Environment](https://www.freecodecamp.org/news/learn-terraform-and-aws-by-building-a-dev-environment/)
