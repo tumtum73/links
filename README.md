@@ -1,5 +1,6 @@
 # General
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Windows vs MacOS vs Linux – Operating System Handbook](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
 
 # Git
 - [Getting Started First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
