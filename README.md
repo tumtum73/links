@@ -11,6 +11,7 @@
 
 # Github
 - [20 Amazing GitHub Repositories Every Developer Should Follow](https://medium.com/towards-data-science/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351)
+- [5 Hidden Tips for GitHub to Make You Look More Pro](https://medium.com/geekculture/5-hidden-tips-for-github-to-make-you-look-more-pro-101fecf3c642)
 
 # Go 
 - [Learn Go Programming by Building 11 Projects](https://www.freecodecamp.org/news/learn-go-by-building-11-projects/)
