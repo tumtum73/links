@@ -1,4 +1,7 @@
-#C++
+# Bash
+- [How to add a Help facility to your Bash program](https://opensource.com/article/19/12/help-bash-program)
+
+# C++
 - [How to Learn the C++ Programming Language](https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/)
 
 # General
