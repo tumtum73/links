@@ -35,6 +35,9 @@
 - [Lexical Scope in JavaScript – What Exactly Is Scope in JS?](https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/)
 - [Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)
 
+# Job Interview
+- [DevOps Exercises (Git Repo)](https://github.com/bregman-arie/devops-exercises)
+
 # KQL
 - [KQL-for-Everything](https://github.com/rod-trent/KQL-for-Everything)
 
