@@ -4,6 +4,9 @@
 # C++
 - [How to Learn the C++ Programming Language](https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/)
 
+# Computer Science
+- [Open Source Society University - Computer Science Curriculum](https://github.com/ossu/computer-science)
+
 # DevOps
 - [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook)
 
