@@ -93,3 +93,4 @@
 
 # Vim
 - [Learn Vim – Beginner's Tutorial](https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/)
+- [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)
