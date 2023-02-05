@@ -64,6 +64,7 @@
 
 # Network
 - [What is the OSI Model? Computer Networking for Beginners](https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners/)
+- [Master the HTTP Networking Protocol](https://www.freecodecamp.org/news/http-networking-protocol-course/)
 
 # Open Source Software (OSS)
 - [What is Open Source Software? OSS Explained in Plain English](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/)
