@@ -81,8 +81,9 @@
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [public-apis](https://github.com/public-apis/public-apis)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [How to Learn to Code & Get a Developer Job in 2023 [Full Book]](https://www.freecodecamp.org/news/learn-to-code-book/)
 
-# Pyhton
+# Python
 - [Free Python Crash Course](https://www.freecodecamp.org/news/free-python-crash-course/)
 - [Object Oriented Programming with Python – Code a Minesweeper Game](https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/)
 - [Train an AI to Play a Snake Game Using Python](https://www.freecodecamp.org/news/train-an-ai-to-play-a-snake-game-using-python/)
