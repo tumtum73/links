@@ -82,6 +82,8 @@
 - [public-apis](https://github.com/public-apis/public-apis)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [How to Learn to Code & Get a Developer Job in 2023 [Full Book]](https://www.freecodecamp.org/news/learn-to-code-book/)
+- [42 Developer Resources to Kickstart Your Coding Journey]
+  (https://javascript.plainenglish.io/42-developer-resources-to-kickstart-your-coding-journey-ad4bf70e0913)
 
 # Python
 - [Free Python Crash Course](https://www.freecodecamp.org/news/free-python-crash-course/)
