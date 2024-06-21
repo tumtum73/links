@@ -4,6 +4,9 @@
 # C++
 - [How to Learn the C++ Programming Language](https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/)
 
+# CICD
+- [Awesome CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks?utm_source=tldrinfosec)
+
 # Computer Science
 - [Open Source Society University - Computer Science Curriculum](https://github.com/ossu/computer-science)
 
