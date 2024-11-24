@@ -13,6 +13,9 @@
 # DevOps
 - [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook)
 
+# eBooks
+- [Introducing freeCodeCamp Press – Free Books for Developers](https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/)
+
 # General
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Windows vs MacOS vs Linux – Operating System Handbook](https://www.freecodecamp.org/news/an-introduction-to-operating-systems/)
