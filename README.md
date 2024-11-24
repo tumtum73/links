@@ -61,6 +61,7 @@
 
 # Machine Learning
 - [Free 10-Hour Machine Learning Course](https://www.freecodecamp.org/news/free-machine-learning-course-10-hourse/)
+- [Learn Machine Learning and Neural Networks without Frameworks](https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/)
 
 # Markdown
 - [Markdown Cheat Sheet – How to Write in Markdown with Examples](https://www.freecodecamp.org/news/markdown-cheat-sheet/)
