@@ -10,6 +10,9 @@
 # Computer Science
 - [Open Source Society University - Computer Science Curriculum](https://github.com/ossu/computer-science)
 
+# Cybersecurity
+- [Top 10 Cybersecurity Projects You Must Try in 2025 | Hurry up!](https://cybersecuritywriteups.com/top-10-cybersecurity-projects-you-must-try-in-2025-hurry-up-d64cfe171600)
+
 # DevOps
 - [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook)
 
