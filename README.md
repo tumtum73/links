@@ -27,6 +27,7 @@
 # Git
 - [Getting Started First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - [A Git cheatsheet that all coders need](https://towardsdatascience.com/a-git-cheatsheet-that-all-coders-need-bf8ad4d91576)
+- [Use Git Like a Senior Engineer](https://medium.com/the-software-journal/use-git-like-a-senior-engineer-42548aee6374)
 
 # Github
 - [20 Amazing GitHub Repositories Every Developer Should Follow](https://medium.com/towards-data-science/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351)
